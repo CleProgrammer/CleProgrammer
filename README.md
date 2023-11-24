@@ -5,6 +5,8 @@
 
 ![Clebson GitHub stats](https://github-readme-stats.vercel.app/api?username=CleProgrammer&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CleProgrammer)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias que eu mais utilizo
 
 <div style="display: inline_block"><br/>
