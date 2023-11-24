@@ -5,8 +5,6 @@
 
 ![Clebson GitHub stats](https://github-readme-stats.vercel.app/api?username=CleProgrammer&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CleProgrammer)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Tecnologias que eu mais utilizo
 
 <div style="display: inline_block"><br/>
@@ -16,6 +14,8 @@
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
     <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div><br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CleProgrammer)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contatos
 
