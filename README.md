@@ -21,7 +21,7 @@
 
 - email - clebsondev@hotmail.com
 - linkedIn - linkedin.com/in/clebsonbarbosa
-- Site de Portfólio - cleprogrammer.github.io/jogo-da-velha/
+- Site de Portfólio - [Site de Portfólio](https://cleprogrammer.github.io/new-website-portfolio/)
 
 
 
