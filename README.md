@@ -1,6 +1,6 @@
 ### Olá! Eu sou Clebson Barbosa 🚀
 
-[![Blog](https://img.shields.io/website?label=Portfólio&style=for-the-badge&url=https://cleprogrammer.github.io/new-website-portfolio/)](https://cleprogrammer.github.io/new-website-portfolio/)
+[![Blog](https://img.shields.io/website?label=Portfólio&style=for-the-badge&url=https://cleprogrammer.github.io/portfolio/)](https://cleprogrammer.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clebsonbarbosa/)
 
 ![Clebson GitHub stats](https://github-readme-stats.vercel.app/api?username=CleProgrammer&show_icons=true&theme=radical)
@@ -21,7 +21,7 @@
 
 - email - clebsondev@hotmail.com
 - linkedIn - linkedin.com/in/clebsonbarbosa
-- Site de Portfólio - [Site de Portfólio](https://cleprogrammer.github.io/new-website-portfolio/)
+- Site de Portfólio - [Site de Portfólio](https://cleprogrammer.github.io/portfolio/)
 
 
 
