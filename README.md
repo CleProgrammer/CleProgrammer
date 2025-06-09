@@ -20,7 +20,7 @@
 ## Contatos
 
 - email - clebsondev@hotmail.com
-- linkedIn - linkedin.com/in/clebsonbarbosa
+- linkedIn - [Linkedin](https://www.linkedin.com/in/clebsonbarbosa/)
 - Site de Portfólio - [Site de Portfólio](https://cleprogrammer.github.io/portfolio/)
 
 
