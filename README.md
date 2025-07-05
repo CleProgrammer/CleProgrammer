@@ -22,6 +22,7 @@
 - email - clebsondev@hotmail.com
 - linkedIn - [Linkedin](https://www.linkedin.com/in/clebsonbarbosa/)
 - Site de Portfólio - [Site de Portfólio](https://cleprogrammer.github.io/portfolio/)
+- Site de Portfólio Designer - [Designer Gráfico](https://cleprogrammer.github.io/designer-portfolio/)
 
 
 
